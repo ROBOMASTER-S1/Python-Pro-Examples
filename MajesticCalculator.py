@@ -1,4 +1,5 @@
-import os,time,math;from math import*
+import os,time,math
+from math import*
 from maj_var import*
 
 def stan_cal():
